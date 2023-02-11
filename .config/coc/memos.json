@@ -1,0 +1,1141 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "/usr/bin/python3.5.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.5",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.3-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "16b999152cd8c930e0aba028171dc4074533bde6dccaad386926951a32346ff00c499c6310ef50187cf1e3913fcf7035a568dea43bb12757d0267100ba6fa555"
+      },
+      "expiry": 1653421492329
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.3-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "0638c1d71166288ace03d4895518771266fa0f5584580c1bce7ed84e0f8b8652c25ec09cd89dba4f8021feaac560d89f1abf15ea219179214faf308c6512d2be"
+      },
+      "expiry": 1653421492305
+    },
+    "/home/trace.rainbolt/.pyenv/shims/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461"
+      },
+      "expiry": 1653421492433
+    },
+    "/home/trace.rainbolt/.pyenv/shims/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7522fa767c4769f4e4a6a664f13454da479ebe10293891af6b56e7722a6f48aaa5d09b480b3ef874ed5fa72c132c408e6baf9c8c5d1f6d030273f3f74cefb090"
+      },
+      "expiry": 1653421492427
+    },
+    "/home/trace.rainbolt/.pyenv/shims/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461"
+      },
+      "expiry": 1653421492422
+    },
+    "/home/trace.rainbolt/.pyenv/versions/3.10.0/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/versions/3.10.0/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "958fb906d3f0d787942473d1677814df567f777c26805fea39ec5bf8da44d4a0030a038bfc261956e4ba265ed8912635c732d633e6e69452583439e864ef7200"
+      },
+      "expiry": 1653421492329
+    },
+    "/home/trace.rainbolt/.pyenv/versions/3.10.0/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/versions/3.10.0/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "a48f332be3d207807c07bf8f549f829ece18d1e1fe07cf6371602808f23e676d30e5bd2fc991c93ae989542ffd0f90f217ba06ad9e09b958535db89416237987"
+      },
+      "expiry": 1653421492360
+    },
+    "/home/trace.rainbolt/.pyenv/versions/3.10.0/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/versions/3.10.0/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "8f59905758bbf3d817c39780cd9f6a17fa1148a5e08a8da845930d2ceae0df2d1b0e51ea8160e159e818c14a0d1f9e656dba1ee789c490ee6ab634cb1dc39bde"
+      },
+      "expiry": 1653421492331
+    },
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/versions/3.10.0/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "a48f332be3d207807c07bf8f549f829ece18d1e1fe07cf6371602808f23e676d30e5bd2fc991c93ae989542ffd0f90f217ba06ad9e09b958535db89416237987",
+        "envName": "3.10.0",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/versions/3.10.0/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "958fb906d3f0d787942473d1677814df567f777c26805fea39ec5bf8da44d4a0030a038bfc261956e4ba265ed8912635c732d633e6e69452583439e864ef7200",
+        "envName": "3.10.0",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/versions/3.10.0/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "8f59905758bbf3d817c39780cd9f6a17fa1148a5e08a8da845930d2ceae0df2d1b0e51ea8160e159e818c14a0d1f9e656dba1ee789c490ee6ab634cb1dc39bde",
+        "envName": "3.10.0",
+        "type": "Pyenv"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.3-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "0638c1d71166288ace03d4895518771266fa0f5584580c1bce7ed84e0f8b8652c25ec09cd89dba4f8021feaac560d89f1abf15ea219179214faf308c6512d2be",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/versions/3.10.0/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "a48f332be3d207807c07bf8f549f829ece18d1e1fe07cf6371602808f23e676d30e5bd2fc991c93ae989542ffd0f90f217ba06ad9e09b958535db89416237987",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/versions/3.10.0/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "a48f332be3d207807c07bf8f549f829ece18d1e1fe07cf6371602808f23e676d30e5bd2fc991c93ae989542ffd0f90f217ba06ad9e09b958535db89416237987",
+        "type": "Unknown"
+      }
+    ],
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/home/trace.rainbolt/.pyenv/versions/3.10.0/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.0-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.0-final"
+      },
+      "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+      "fileHash": "a48f332be3d207807c07bf8f549f829ece18d1e1fe07cf6371602808f23e676d30e5bd2fc991c93ae989542ffd0f90f217ba06ad9e09b958535db89416237987",
+      "type": "Unknown"
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/home/trace.rainbolt/.pyenv/versions/3.10.0/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.0-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.0-final"
+      },
+      "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+      "fileHash": "a48f332be3d207807c07bf8f549f829ece18d1e1fe07cf6371602808f23e676d30e5bd2fc991c93ae989542ffd0f90f217ba06ad9e09b958535db89416237987",
+      "type": "Unknown"
+    },
+    "/home/trace.rainbolt/.pyenv/versions/3.10.0/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "a48f332be3d207807c07bf8f549f829ece18d1e1fe07cf6371602808f23e676d30e5bd2fc991c93ae989542ffd0f90f217ba06ad9e09b958535db89416237987",
+        "info": {
+          "architecture": 3,
+          "path": "/home/trace.rainbolt/.pyenv/versions/3.10.0/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.0-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.0-final"
+          },
+          "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+          "fileHash": "a48f332be3d207807c07bf8f549f829ece18d1e1fe07cf6371602808f23e676d30e5bd2fc991c93ae989542ffd0f90f217ba06ad9e09b958535db89416237987",
+          "envName": "3.10.0",
+          "type": "Pyenv",
+          "displayName": "Python 3.10.0 64-bit ('3.10.0': pyenv)"
+        }
+      },
+      "expiry": 1653421498916
+    },
+    "/home/trace.rainbolt/.pyenv/versions/3.10.0/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.0 64-bit ('3.10.0': pyenv)",
+        "hash": "a48f332be3d207807c07bf8f549f829ece18d1e1fe07cf6371602808f23e676d30e5bd2fc991c93ae989542ffd0f90f217ba06ad9e09b958535db89416237987-19446b23f3348797105b8f3dc0ded049"
+      },
+      "expiry": 1653421492527
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.3-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "0638c1d71166288ace03d4895518771266fa0f5584580c1bce7ed84e0f8b8652c25ec09cd89dba4f8021feaac560d89f1abf15ea219179214faf308c6512d2be",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.5",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.3-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "16b999152cd8c930e0aba028171dc4074533bde6dccaad386926951a32346ff00c499c6310ef50187cf1e3913fcf7035a568dea43bb12757d0267100ba6fa555",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7522fa767c4769f4e4a6a664f13454da479ebe10293891af6b56e7722a6f48aaa5d09b480b3ef874ed5fa72c132c408e6baf9c8c5d1f6d030273f3f74cefb090",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7522fa767c4769f4e4a6a664f13454da479ebe10293891af6b56e7722a6f48aaa5d09b480b3ef874ed5fa72c132c408e6baf9c8c5d1f6d030273f3f74cefb090",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7522fa767c4769f4e4a6a664f13454da479ebe10293891af6b56e7722a6f48aaa5d09b480b3ef874ed5fa72c132c408e6baf9c8c5d1f6d030273f3f74cefb090",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7522fa767c4769f4e4a6a664f13454da479ebe10293891af6b56e7722a6f48aaa5d09b480b3ef874ed5fa72c132c408e6baf9c8c5d1f6d030273f3f74cefb090",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7522fa767c4769f4e4a6a664f13454da479ebe10293891af6b56e7722a6f48aaa5d09b480b3ef874ed5fa72c132c408e6baf9c8c5d1f6d030273f3f74cefb090",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7522fa767c4769f4e4a6a664f13454da479ebe10293891af6b56e7722a6f48aaa5d09b480b3ef874ed5fa72c132c408e6baf9c8c5d1f6d030273f3f74cefb090",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/trace.rainbolt/.pyenv/shims/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.0-final"
+        },
+        "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+        "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.3-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "0638c1d71166288ace03d4895518771266fa0f5584580c1bce7ed84e0f8b8652c25ec09cd89dba4f8021feaac560d89f1abf15ea219179214faf308c6512d2be",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.5",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.3-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "16b999152cd8c930e0aba028171dc4074533bde6dccaad386926951a32346ff00c499c6310ef50187cf1e3913fcf7035a568dea43bb12757d0267100ba6fa555",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.3-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "0638c1d71166288ace03d4895518771266fa0f5584580c1bce7ed84e0f8b8652c25ec09cd89dba4f8021feaac560d89f1abf15ea219179214faf308c6512d2be",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.5",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.5.3-final",
+          "major": 3,
+          "minor": 5,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.5.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "16b999152cd8c930e0aba028171dc4074533bde6dccaad386926951a32346ff00c499c6310ef50187cf1e3913fcf7035a568dea43bb12757d0267100ba6fa555",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.5.3 64-bit",
+        "hash": "0638c1d71166288ace03d4895518771266fa0f5584580c1bce7ed84e0f8b8652c25ec09cd89dba4f8021feaac560d89f1abf15ea219179214faf308c6512d2be-623b965ed48756a623fe8482c03b30e5"
+      },
+      "expiry": 1653421492444
+    },
+    "/home/trace.rainbolt/.pyenv/shims/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.0 64-bit",
+        "hash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461-e83ecabefd10ec43369ea42a4fef922a"
+      },
+      "expiry": 1653421492446
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/home/trace.rainbolt/.pyenv/shims/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.0-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.0-final"
+      },
+      "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+      "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461",
+      "type": "Unknown",
+      "displayName": "Python 3.10.0 64-bit"
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "0638c1d71166288ace03d4895518771266fa0f5584580c1bce7ed84e0f8b8652c25ec09cd89dba4f8021feaac560d89f1abf15ea219179214faf308c6512d2be",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.5.3-final",
+            "major": 3,
+            "minor": 5,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.5.3-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "0638c1d71166288ace03d4895518771266fa0f5584580c1bce7ed84e0f8b8652c25ec09cd89dba4f8021feaac560d89f1abf15ea219179214faf308c6512d2be",
+          "type": "Unknown",
+          "displayName": "Python 3.5.3 64-bit"
+        }
+      },
+      "expiry": 1653421492456
+    },
+    "/home/trace.rainbolt/.pyenv/shims/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461",
+        "info": {
+          "architecture": 3,
+          "path": "/home/trace.rainbolt/.pyenv/shims/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.0-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.0-final"
+          },
+          "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+          "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461",
+          "type": "Unknown",
+          "displayName": "Python 3.10.0 64-bit"
+        }
+      },
+      "expiry": 1653421492458
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/home/trace.rainbolt/.pyenv/shims/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.0-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.0-final"
+      },
+      "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+      "fileHash": "7519e487a36831f0b9a0cf5b5774fbea4cb9bc077a62eb5d1a2d7be1974399b9e8c2b779fdf0c210a7798a4435995ddb91c212b056e837a330e41bb3d2f92461",
+      "type": "Unknown",
+      "displayName": "Python 3.10.0 64-bit"
+    }
+  },
+  "coc-python|/data00/home/trace.rainbolt/repos/lighthouse.retrace_script_tiktok": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:edf7f45dc25b5923121dddeabd3bddfb": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:edf7f45dc25b5923121dddeabd3bddfb": [],
+    "autoSelectedWorkspacePythonInterpreter-/data00/home/trace.rainbolt/repos/lighthouse.retrace_script_tiktok": {
+      "architecture": 3,
+      "path": "/home/trace.rainbolt/.pyenv/versions/3.10.0/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.0-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.0-final"
+      },
+      "sysPrefix": "/home/trace.rainbolt/.pyenv/versions/3.10.0",
+      "fileHash": "a48f332be3d207807c07bf8f549f829ece18d1e1fe07cf6371602808f23e676d30e5bd2fc991c93ae989542ffd0f90f217ba06ad9e09b958535db89416237987",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  }
+}

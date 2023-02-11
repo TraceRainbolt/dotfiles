@@ -1,0 +1,9 @@
+[user]
+    name = trace.rainbolt
+    email = trace.rainbolt@bytedance.com
+[url "ssh://trace.rainbolt@git.byted.org:29418"]
+    insteadOf = https://git.byted.org
+[url "ssh://trace.rainbolt@git.byted.org:29418"]
+    insteadOf = https://review.byted.org
+[url "git@code.byted.org:"]
+    insteadOf = https://code.byted.org
