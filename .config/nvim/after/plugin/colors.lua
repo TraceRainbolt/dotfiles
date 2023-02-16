@@ -6,4 +6,4 @@ function ColorVim(color)
 	vim.api.nvim_set_hl(0, "NormalFloa", { bg = "none" })
 end
 
-ColorVim()
+-- ColorVim()
