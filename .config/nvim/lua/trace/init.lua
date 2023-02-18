@@ -28,4 +28,4 @@ vim.opt.scrolloff = 8
 
 vim.opt.updatetime = 50
 
-
+vim.opt.makeprg = "sh build.sh"

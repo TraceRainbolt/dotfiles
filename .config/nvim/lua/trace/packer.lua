@@ -6,6 +6,9 @@ return require('packer').startup(function(use)
 
 	use 'toppair/reach.nvim'
 
+	use 'tpope/vim-fugitive'
+	use 'shumphrey/fugitive-gitlab.vim'
+
 	use {
 		'nvim-telescope/telescope.nvim', tag = '0.1.1',
 		requires = { {'nvim-lua/plenary.nvim'} }

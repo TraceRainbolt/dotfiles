@@ -109,6 +109,11 @@ _G.packer_plugins = {
     path = "/data00/home/trace.rainbolt/.local/share/nvim/site/pack/packer/start/friendly-snippets",
     url = "https://github.com/rafamadriz/friendly-snippets"
   },
+  ["fugitive-gitlab.vim"] = {
+    loaded = true,
+    path = "/data00/home/trace.rainbolt/.local/share/nvim/site/pack/packer/start/fugitive-gitlab.vim",
+    url = "https://github.com/shumphrey/fugitive-gitlab.vim"
+  },
   ["lsp-zero.nvim"] = {
     loaded = true,
     path = "/data00/home/trace.rainbolt/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",
@@ -164,6 +169,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/data00/home/trace.rainbolt/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
+  },
+  ["vim-fugitive"] = {
+    loaded = true,
+    path = "/data00/home/trace.rainbolt/.local/share/nvim/site/pack/packer/start/vim-fugitive",
+    url = "https://github.com/tpope/vim-fugitive"
   }
 }
 
