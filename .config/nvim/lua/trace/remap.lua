@@ -1,7 +1,9 @@
 vim.g.mapleader = " "
 
+-- Quick jk to exit insert
 vim.keymap.set("i", "jk", "<Esc>")
 
+-- Keymaps for netrw
 vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
 vim.keymap.set("n", "<leader>le", vim.cmd.Lexplore)
 
@@ -16,7 +18,7 @@ vim.keymap.set({"n", "v"}, "<leader>Y", [["+Y]])
 vim.keymap.set("n", "<leader>b", "<cmd>bprev<CR>")
 vim.keymap.set("n", "<leader>n", "<cmd>bnext<CR>")
 
--- source file 
+-- Source file 
 vim.keymap.set("n", "<leader><leader>", "<cmd>so<CR>")
 
 -- Move selected text
@@ -34,3 +36,6 @@ vim.keymap.set("n", "<C-j>", "<cmd>cprev<CR>zz")
 
 -- Quick chmod +x
 vim.keymap.set("n", "<leader>x",  "<cmd>!chmod +x %<CR>", { silent = true })
+
+-- Build
+vim.keymap.set("n", "<leader>mm", "<cmd>make<CR>")
