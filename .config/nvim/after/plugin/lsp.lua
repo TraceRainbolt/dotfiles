@@ -13,13 +13,15 @@ vim.api.nvim_create_autocmd('BufWritePre', {
 })
 
 lsp.setup_servers({
+	'gopls',
 	'tsserver', 
 	'eslint',
-	'gopls',
 	'pylsp',
 	'bashls'
 })
 
 lsp.nvim_workspace()
 lsp.setup()
+
+require("mason").setup()
 

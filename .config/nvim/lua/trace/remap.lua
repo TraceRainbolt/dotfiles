@@ -38,4 +38,4 @@ vim.keymap.set("n", "<C-j>", "<cmd>cprev<CR>zz")
 vim.keymap.set("n", "<leader>x",  "<cmd>!chmod +x %<CR>", { silent = true })
 
 -- Build
-vim.keymap.set("n", "<leader>mm", "<cmd>make<CR>")
+vim.keymap.set("n", "<leader>m", "<cmd>make<CR>")
